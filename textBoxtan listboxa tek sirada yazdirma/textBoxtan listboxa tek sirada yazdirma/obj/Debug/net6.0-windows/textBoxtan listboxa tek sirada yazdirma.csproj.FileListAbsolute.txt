@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\bin\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.exe
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\bin\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.deps.json
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\bin\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.runtimeconfig.json
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\bin\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.dll
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\bin\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.pdb
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\textBoxtan_listboxa_tek_sirada_yazdirma.Form1.resources
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.AssemblyInfo.cs
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.dll
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\refint\textBoxtan listboxa tek sirada yazdirma.dll
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.pdb
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\textBoxtan listboxa tek sirada yazdirma.genruntimeconfig.cache
+C:\Users\Asus\source\repos\textBoxtan listboxa tek sirada yazdirma\textBoxtan listboxa tek sirada yazdirma\obj\Debug\net6.0-windows\ref\textBoxtan listboxa tek sirada yazdirma.dll
